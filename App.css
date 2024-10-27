@@ -1,0 +1,12 @@
+header {
+  text-align: center;
+  background-color: #f8c8c8;
+  padding: 20px;
+}
+
+.stills {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
